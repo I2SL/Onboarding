@@ -33,9 +33,8 @@ Integrated Development Environments (IDEs) are critical to efficiently writing a
 | Python  | [PyCharm](https://www.jetbrains.com/pycharm/) |
 | Java  | [IntelliJ](https://www.jetbrains.com/idea/) | 
 | HTML/Javascript/CSS  | [Visual Studio Code](https://code.visualstudio.com/)  | 
-| C++  | [Visual Studio](https://visualstudio.microsoft.com/vs/)  |
-| C | [Visual Studio](https://visualstudio.microsoft.com/vs/) |
-| R | [R Studio](https://www.rstudio.com/products/rstudio/) |
+| C/C++  | [Visual Studio](https://visualstudio.microsoft.com/vs/)  |
+| R | [RStudio](https://www.rstudio.com/products/rstudio/) |
 
 As a general text editor, we recommend [Atom](https://atom.io/)
 
