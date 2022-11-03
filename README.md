@@ -10,9 +10,9 @@ We look forward to what you discover!
 
 This repository contains 3 introductory Lessons:
 
-💬 [Git]()
+🚀 [Git]()
 
-📃 [Documentation]()
+✏️ [Documentation]()
 
 💻 [High-Performance Computing (HPC)]()
 
