@@ -8,13 +8,15 @@ The goal of this repository is to teach you how to setup and use a few important
 We look forward to what you discover!
 
 
+
+
 This repository contains 3 introductory Lessons:
 
-🚀 [Git]()
+🚀 [Git](https://github.com/I2SL/Onboarding/wiki/Lesson-1:-Git)
 
-✏️ [Documentation]()
+✏️ [Documentation](https://github.com/I2SL/Onboarding/wiki/Lesson-2:-Documentation)
 
-💻 [High-Performance Computing (HPC)]()
+💻 [High-Performance Computing (HPC)](https://github.com/I2SL/Onboarding/wiki/Lesson-1:-High-Performance-Computing)
 
 
 # Lesson 0: Setup and installation
