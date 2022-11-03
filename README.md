@@ -16,7 +16,7 @@ This repository contains 3 introductory Lessons:
 
 ✏️ [Documentation](https://github.com/I2SL/Onboarding/wiki/Lesson-2:-Documentation)
 
-💻 [High-Performance Computing (HPC)](https://github.com/I2SL/Onboarding/wiki/Lesson-1:-High-Performance-Computing)
+💻 [High-Performance Computing (HPC)](https://github.com/I2SL/Onboarding/wiki/Lesson-3:-High-Performance-Computing)
 
 
 # Lesson 0: Setup and installation
