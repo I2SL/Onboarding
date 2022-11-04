@@ -12,24 +12,17 @@ We look forward to what you discover!
 
 This repository contains 3 introductory Lessons:
 
-🚀 [Git](https://github.com/I2SL/Onboarding/wiki/Lesson-1:-Git)
+🚀 [Lesson 1: Git](https://github.com/I2SL/Onboarding/wiki/Lesson-1:-Git)
 
-✏️ [Documentation](https://github.com/I2SL/Onboarding/wiki/Lesson-2:-Documentation)
+✏️ [Lesson 2: Documentation](https://github.com/I2SL/Onboarding/wiki/Lesson-2:-Documentation)
 
-💻 [High-Performance Computing (HPC)](https://github.com/I2SL/Onboarding/wiki/Lesson-3:-High-Performance-Computing)
+💻 [Lesson 3: High-Performance Computing](https://github.com/I2SL/Onboarding/wiki/Lesson-3:-High-Performance-Computing)
 
 
 # Lesson 0: Setup and installation
 - install [git](https://git-scm.com/downloads) on your local machine
 
 
-# Lesson 1: Git
-## Lesson 1.1: What is version control?
-## Lesson 1.2: Git Terminal
-## Lesson 1.3: Cloning your project repository
-## Lesson 1.4: Pulling, editting, and pushing
-## Lesson 1.5: Branching
-## Lesson 1.6: Merge Conflicts
 
 # Lesson 2: Project Development
 
