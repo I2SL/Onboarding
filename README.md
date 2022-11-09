@@ -9,8 +9,8 @@ We look forward to what you discover!
 
 
 # Setup and installation
-- install [git](https://git-scm.com/downloads) on your local machine
 
+To work with github you'll first have to install [git](https://git-scm.com/downloads) on your local machine.
 
 
 # Lessons
