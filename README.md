@@ -7,7 +7,13 @@ The goal of this repository is to teach you how to setup and use a few important
 
 We look forward to what you discover!
 
-This repository contains 3 introductory Lessons:
+
+# Setup and installation
+- install [git](https://git-scm.com/downloads) on your local machine
+
+
+
+# Lessons
 
 🚀 [Lesson 1: Git](https://github.com/I2SL/Onboarding/wiki/Lesson-1:-Git)
 
@@ -16,5 +22,7 @@ This repository contains 3 introductory Lessons:
 💻 [Lesson 3: High-Performance Computing](https://github.com/I2SL/Onboarding/wiki/Lesson-3:-High-Performance-Computing)
 
 
-# Setup and installation
-- install [git](https://git-scm.com/downloads) on your local machine
+# Getting Added to the lab webpage
+- navigate to lab repo
+- add a member.md file
+- include fields for yourself
