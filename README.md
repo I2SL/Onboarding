@@ -10,8 +10,7 @@ We look forward to what you discover!
 
 # Setup and installation
 
-To work with github and follow the onboarding lessons you'll first have to install [git](https://git-scm.com/downloads) on your local machine.
-
+To work with github and follow the onboarding lessons you'll first have to install [git](https://git-scm.com/downloads) on your local machine. Make sure to select the Windows Explore Integration boxes in the installation menu (if you are installing on a Windows machine). This will save you some time navigating through directories in a terminal.
 
 # Lessons
 
