@@ -27,6 +27,7 @@ Let's get started!
 
 💻 [Lesson 3: I2SL Computing Cluster](https://github.com/I2SL/Onboarding/wiki/Lesson-3:-I2SL-Computing-Cluster)
 
+---
 ### Members who Have Completed Lesson 1
 
 ✅ Nico Deshler 
