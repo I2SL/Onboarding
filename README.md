@@ -19,6 +19,8 @@ It is also valuable to have a good text editor like [atom](https://atom.io/).
 
 # Lessons
 
+Let's get started!
+
 🚀 [Lesson 1: Git](https://github.com/I2SL/Onboarding/wiki/Lesson-1:-Git)
 
 ✏️ [Lesson 2: Documentation](https://github.com/I2SL/Onboarding/wiki/Lesson-2:-Documentation)
