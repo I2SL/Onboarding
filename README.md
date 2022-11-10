@@ -22,4 +22,4 @@ To work with github and follow the onboarding lessons you'll first have to insta
 
 ### Members who Have Completed Onboarding
 
-Nico Deshler 
+✅ Nico Deshler 
