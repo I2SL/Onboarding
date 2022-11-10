@@ -18,10 +18,16 @@ To work with github and follow the onboarding lessons you'll first have to insta
 
 ✏️ [Lesson 2: Documentation](https://github.com/I2SL/Onboarding/wiki/Lesson-2:-Documentation)
 
-💻 [Lesson 3: High-Performance Computing](https://github.com/I2SL/Onboarding/wiki/Lesson-3:-High-Performance-Computing)
+💻 [Lesson 3: I2SL Computing Cluster](https://github.com/I2SL/Onboarding/wiki/Lesson-3:-I2SL-Computing-Cluster)
+
+# List of Members who Have Completed Lesson 1
+
+# List of Members who have Completed Lesson 2
+
+# List of Members who have Completed Lesson 3
 
 
-# Getting Added to the lab webpage
-- navigate to lab repo
-- add a member.md file
-- include fields for yourself
+
+
+
+
