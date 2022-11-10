@@ -8,7 +8,7 @@ The goal of this repository is to set you up with a few important tools that wil
 We look forward to what you discover!
 
 
-# Setup and installation
+# Setup and Installations
 
 To work with github and follow the onboarding lessons you'll first have to install [git](https://git-scm.com/downloads) on your local machine. 
 - *Windows* : Make sure to select the Windows Explore Integration boxes in the installation menu. This will save you some time navigating through directories in a terminal.
