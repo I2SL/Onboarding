@@ -13,7 +13,7 @@ We look forward to what you discover!
 To work with github and follow the onboarding lessons you'll first have to install [git](https://git-scm.com/downloads) on your local machine. 
 - *Windows* : Make sure to select the Windows Explore Integration boxes in the installation menu. This will save you some time navigating through directories in a terminal.
 - *MacOS* : You will have to install [Homebrew](https://brew.sh/) first before you install git.
-- *Linux* : You have it easy.
+- *Linux* : You have it easy. Just click the link and install.
 
 It is also valuable to have a good text editor like [atom](https://atom.io/).
 
